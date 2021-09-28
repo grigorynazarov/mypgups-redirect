@@ -2,7 +2,7 @@
 Данное расширение распространяется без каких-либо гарантий по принципу "AS IS" ("КАК ЕСТЬ"). Расширение НЕ было разработано сотрудниками университета.
 
 ## Что это?
-Это расширение делает переадресацию из темы "Вход на сайт через https://my.pgups.ru/" с сайта СДО на страницу входа my.pgups.ru
+Это расширение делает переадресацию из темы "Вход на сайт через https://my.pgups.ru/" на страницу входа my.pgups.ru при нажатии кнопки `Войти` в СДО
 
 ## Совместимость с браузерами
 Расширение должно работать в любом браузере на основе Chromium и в браузере Firefox
@@ -42,33 +42,3 @@
 
 Сборка для Firefox: Скачайте файлы из папки `Firefox` и упакуйте файлы из папки как ZIP-архив с расширением `.xpi`.<br/>
 Сборка для Chrome (Chromium): Скачайте файлы из папки `Chrome-and-others` и в браузере в разделе дополнений нажмите на кнопку `Упаковать расширение` и выберите папку с расширением.
-
-
-## Лицензия
-Отказ от авторских прав и отказ от гарантий. [Подробнее](https://ru.wikipedia.org/wiki/Unlicense)
-```
-This is free and unencumbered software released into the public domain.
-
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
-
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-For more information, please refer to <http://unlicense.org/>
-```
