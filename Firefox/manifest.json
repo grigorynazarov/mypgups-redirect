@@ -1,0 +1,27 @@
+{
+
+  "manifest_version": 2,
+  "name": "MyPGUPS Redirect",
+  "version": "1.0",
+  "description": "Переадресация на my.pgups.ru при нажатии кнопки Войти",
+  "icons": {
+    "48": "icons/favicon-48.png",
+    "96": "icons/favicon-96.png"
+  },
+
+  "applications": {
+    "gecko": {
+      "id": "mypgupsredirect@github.com",
+      "strict_min_version": "48.0"
+    }
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://sdo.pgups.ru/mod/forum/discuss.php?d=41150*"],
+      "run_at": "document_start",
+      "js": ["redirect.js"]
+    }
+  ]
+
+}
