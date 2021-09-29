@@ -21,7 +21,7 @@
 ### Chrome, Яндекс.Браузер и другие
 Для этих браузеров нет версии в магазине расширений и здесь будет рассматриваться способ ручной установки.
 <br/>
-- Скачать архив с расширением в формате `.zip` из страницы [Releases](https://github.com/EvilScout/MyPGUPS-Redirect/releases/tag/1.0)
+- Скачать архив с расширением в формате `.zip` из страницы [Releases](https://github.com/grigorynazarov/mypgups-redirect/releases/tag/Release)
 - Распаковать содержимое в пустую папку с названием `mypgupsredirect`
 - Для Chrome (Chromium):
   - Откройте меню расширений, набрав в строке браузера `chrome://extensions/` <br/> Либо через меню браузера перейдите в `Дополнительные инструменты > Расширения`
